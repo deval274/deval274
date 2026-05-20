@@ -71,14 +71,6 @@ I enjoy building products that combine:
 
 ---
 
-## 📈 GitHub Metrics
-
-<p align="center">
-<img src="./github-metrics.svg"/>
-</p>
-
----
-
 ## 📊 Contribution Graph
 
 <p align="center">
