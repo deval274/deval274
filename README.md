@@ -1,53 +1,123 @@
-<h1 align="center">👋 Hi, I'm Deval Ujeniya</h1>
-<h3 align="center">Full Stack Developer • MERN | AL (Business Central) | DevOps & Cloud Learner</h3>
+<h1 align="center">Hi 👋 I'm Deval Ujeniya</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
+Full Stack Developer • Backend Enthusiast • MERN Developer
+</p>
+
+<p align="center">
+Building backend systems, learning DSA, exploring DevOps & Cloud 🚀
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer (MERN)  
-- 🧱 Working with **Microsoft Dynamics 365 Business Central** (AL, Manufacturing, Warehouse, Projects, Service)  
-- 🛠 Experienced in **server deployment, Nginx, UFW, Fail2Ban, SSL, security hardening**  
-- 🧩 Currently learning **Next.js 15, DevOps, Cloud, Secure Architecture**  
-- ⚙️ Built real systems like **Vaidhyadesk**, **AskDoc**, **EstateEase** (internship projects)  
-- ☕ Code + Music = Perfect Day  
+I'm a Full Stack Developer focused on building real-world applications from idea to deployment.
 
----
+Currently working with **Next.js** and contributing across the complete product lifecycle:
 
-## 🛠 Tech & Tools
+- 🎨 Frontend development and UI implementation
+- ⚙ Backend APIs and business logic
+- 🧩 Feature development and module implementation
+- 🏗 Application architecture and integrations
+- 🚀 Deployment and production setup
+- 🔐 Authentication, security and performance improvements
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,c,cpp" />
-</p>
+My current focus areas:
 
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+- MERN Stack Development
+- Next.js Applications
+- Backend Engineering
+- Scalable APIs
+- System Design
+- DevOps & Cloud
+- DSA Preparation
 
-### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx,docker,linux,git,github,postman" />
-</p>
+I enjoy building products that combine:
 
-### **Microsoft Dynamics 365 Business Central**
-- AL Programming  
-- Manufacturing (BOM, Routing)  
-- Warehouse (Bins, Picks, Put-aways)  
-- Projects Module, Service, Automations  
-- File Processing, Reports, Custom Extensions  
+`Frontend + Backend + Deployment + Real Features`
+
+Tech interests:
+
+`Node.js • Express • Next.js • MongoDB • Redis • Docker • Linux • Nginx`
 
 ---
 
-## 📈 GitHub Metrics (same style as screenshot)
+## 🛠 Tech Stack
 
-> ⚠️ After adding this, you must enable GitHub Actions (I'll give instructions below)
+### Languages
 
-```md
-<!-- GitHub Metrics -->
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,nginx" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- MERN Development
+- Backend Engineering
+- DSA Journey
+- DevOps & Cloud
+- System Design
+- Technical Writing
+
+---
+
+<p align="center">
+
+Build • Learn • Share 🚀
+
+</p>
