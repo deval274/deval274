@@ -5,11 +5,11 @@ Full Stack Developer • Backend Enthusiast • MERN Developer
 </p>
 
 <p align="center">
-Building backend systems, learning DSA, exploring DevOps & Cloud 🚀
+Building products, learning DSA, exploring DevOps & Cloud 🚀
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=deval274&style=for-the-badge" />
 </p>
 
 ---
@@ -22,28 +22,18 @@ Currently working with **Next.js** and contributing across the complete product 
 
 - 🎨 Frontend development and UI implementation
 - ⚙ Backend APIs and business logic
-- 🧩 Feature development and module implementation
-- 🏗 Application architecture and integrations
+- 🧩 Feature and module development
+- 🏗 Architecture and integrations
 - 🚀 Deployment and production setup
-- 🔐 Authentication, security and performance improvements
+- 🔐 Security and performance improvements
 
-My current focus areas:
+Current interests:
 
-- MERN Stack Development
-- Next.js Applications
-- Backend Engineering
-- Scalable APIs
-- System Design
-- DevOps & Cloud
-- DSA Preparation
+`Next.js • MERN • Backend Engineering • System Design • DevOps • Cloud • DSA`
 
 I enjoy building products that combine:
 
 `Frontend + Backend + Deployment + Real Features`
-
-Tech interests:
-
-`Node.js • Express • Next.js • MongoDB • Redis • Docker • Linux • Nginx`
 
 ---
 
@@ -81,43 +71,22 @@ Tech interests:
 
 ---
 
-## 📊 GitHub Metrics
+## 📈 GitHub Metrics
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
+<img src="./github-metrics.svg"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deval274&theme=github-compact"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-- MERN Development
-- Backend Engineering
-- DSA Journey
-- DevOps & Cloud
-- System Design
-- Technical Writing
-
----
-
 <p align="center">
-
 Build • Learn • Share 🚀
-
 </p>
